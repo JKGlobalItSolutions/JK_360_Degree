@@ -2925,6 +2925,7 @@ pre code {
     -ms-flex-pack: justify;
     justify-content: space-between;
     padding: .5rem 1rem;
+    background-color:  #06a3da;
 }
 
 .navbar .container,.navbar .container-fluid,.navbar .container-lg,.navbar .container-md,.navbar .container-sm,.navbar .container-xl {
@@ -6761,7 +6762,7 @@ a.bg-dark:focus,a.bg-dark:hover,button.bg-dark:focus,button.bg-dark:hover {
     padding: 10px 44px;
     width: 100%;
     transition: all .8s;
-    background: #fff!important;
+    background: #06a3da!important;
 }
 
 .fixed-bottom {
