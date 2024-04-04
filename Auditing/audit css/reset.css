@@ -4609,11 +4609,11 @@ p {
 }
 
 .icon-bg-green::after {
-    background: #6c3
+    background: #06a3da
 }
 
 .icon-green {
-    color: #6c3
+    color: #06a3da
 }
 
 .icon-bg-orange::after {
@@ -4661,7 +4661,7 @@ title:before {
     height: 0;
     width: 50px;
     content: '';
-    border-top: 3px solid #83c141
+    border-top: 3px solid #06a3da
 }
 
 .service-make {
@@ -4745,7 +4745,7 @@ title:before {
 }
 
 .site-btn--bordered-white::before {
-    background: #0b7d3f
+    background: #06a3da
 }
 
 .site-btn--bordered-white span {
@@ -4866,7 +4866,7 @@ a:hover {
     align-items: flex-start;
     justify-content: flex-start;
     flex-direction: column;
-    color: #176332;
+    color: #06a3da;
     font-size: 28px;
     width: 70%;
     font-weight: 600;
@@ -5107,7 +5107,7 @@ a:hover {
 
 .banner-special-info-item__title strong {
     margin-top: 6px;
-    color: #0b7d3f;
+    color: #06a3da;
     font-size: 18px;
     font-weight: 500;
     text-align: center;
@@ -5570,7 +5570,7 @@ p.cpa-person-info span {
 }
 
 .focus-on-running__call-info p a {
-    color: #0b7d3f
+    color: #06a3da
 }
 
 .focus-on-running__call-info span {
@@ -6395,7 +6395,7 @@ svg {
 }
 
 .box-item__desc ul li span {
-    background: #0b7d3f;
+    background: #06a3da;
     color: #fff;
     font-size: 24px
 }
@@ -6860,7 +6860,7 @@ input[type=radio] {
 
     /* Styling for the pricing section */
 .bg-layer-bg {
-  background-color: #f8f9fa;
+  background-color: #bee5eb;
   padding-top: 60px;
 }
 
