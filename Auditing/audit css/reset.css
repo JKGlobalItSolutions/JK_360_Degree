@@ -1966,7 +1966,7 @@ p.has-large-font-size {
     border: 1px solid #eee;
     text-align: center;
     border-radius: 100%;
-    background-color: #83c141;
+    background-color: #3c7ad6;
     font-size: 13px;
     margin-right: 10px;
     -webkit-transition: .3s;
@@ -1981,7 +1981,7 @@ p.has-large-font-size {
 }
 
 .footer .address-widget-list li span {
-    color: #179e66;
+    color: #3c7ad6;
     display: inline-block
 }
 
@@ -2223,7 +2223,7 @@ p.has-large-font-size {
     height: 80px;
     line-height: 80px;
     border-radius: 100%;
-    background: #179e66;
+    background: #3c7ad6;
     color: #fff;
     display: inline-block;
     font-size: 28px
@@ -2231,7 +2231,7 @@ p.has-large-font-size {
 
 .hero-agency .video-head .video:hover {
     background: #fff !important;
-    color: #179e66;
+    color: #3c7ad6;
     -webkit-box-shadow: 0 0 15px #00000029;
     -moz-box-shadow: 0 0 15px #00000029;
     box-shadow: 0 0 15px #00000029
@@ -2248,7 +2248,7 @@ p.has-large-font-size {
     position: absolute;
     width: 150px;
     height: 150px;
-    border: 2px solid #179e668a;
+    border: 2px solid #3c7ad6;
     opacity: 0;
     border-radius: 100%;
     -webkit-animation: 3s ease-in-out infinite waves;
@@ -2294,7 +2294,7 @@ p.has-large-font-size {
     margin-right: 20px;
     border-radius: 0;
     box-shadow: -2px 4px 13px rgba(0, 0, 0, .12);
-    border-top: 2px solid #179e66;
+    border-top: 2px solid #3c7ad6;
     -webkit-transition: .3s;
     -moz-transition: .3s;
     transition: .3s
@@ -2354,7 +2354,7 @@ p.has-large-font-size {
 
 .single-feature.active,
 .single-feature:hover {
-    border-top-color: #179e66
+    border-top-color: #3c7ad6
 }
 
 .single-feature:hover {
@@ -2365,7 +2365,7 @@ p.has-large-font-size {
 }
 
 .single-feature .icon-head i {
-    color: #228848;
+    color: #3c7ad6;
     width: 90px;
     height: 90px;
     line-height: 90px;
@@ -2381,7 +2381,7 @@ p.has-large-font-size {
 
 .single-feature.active .icon-head i,
 .single-feature:hover .icon-head i {
-    background: #009140;
+    background: #3c7ad6;
     color: #fff;
     border-color: transparent
 }
@@ -2416,7 +2416,7 @@ p.has-large-font-size {
 }
 
 .bizwheel-btn.theme-2 {
-    background: #228848;
+    background: #3c7ad6;
     color: #fff;
     padding: 15px 32px
 }
@@ -2453,7 +2453,7 @@ p.has-large-font-size {
 .single-feature.active .bizwheel-btn i,
 .single-feature:hover .bizwheel-btn i {
     color: #fff;
-    background: #179e66
+    background: #3c7ad6
 }
 
 .about-us {
@@ -2522,7 +2522,7 @@ p.has-large-font-size {
     width: 52px;
     height: 52px;
     line-height: 52px;
-    color: #009140;
+    color: #3c7ad6;
     border-radius: 100%;
     -moz-transition: .4s;
     transition: .4s;
@@ -2606,7 +2606,7 @@ p.has-large-font-size {
 }
 
 .single-service .icon-bg i {
-    color: #179e66;
+    color: #3c7ad6;
     text-align: center;
     border-radius: 100%;
     display: inline-block;
@@ -2633,7 +2633,7 @@ p.has-large-font-size {
 .img-feature .video-play:hover a,
 .single-contact-box:hover i,
 .single-service:hover .icon-bg i {
-    background: #179e66;
+    background: #3c7ad6;
     color: #fff
 }
 
@@ -2769,14 +2769,14 @@ p.has-large-font-size {
 }
 
 .call-action .bizwheel-btn {
-    background: #228848;
+    background: #3c7ad6;
     color: #fff;
     box-shadow: 0 10px 10px -8px rgba(0, 0, 0, .5)
 }
 
 .call-action .bizwheel-btn:hover {
     background: #fff;
-    color: #228848
+    color: #3c7ad6
 }
 
 .call-action .call-text {
@@ -2818,7 +2818,7 @@ p.has-large-font-size {
 
 .pf-details .portfolio-meta {
     display: block;
-    border-top: 3px solid #179e66;
+    border-top: 3px solid #3c7ad6;
     text-align: center;
     margin-top: 30px;
     box-shadow: 0 0 10px rgba(0, 0, 0, .14)
@@ -2983,7 +2983,7 @@ p.has-large-font-size {
 }
 
 .single-counter .icon i {
-    color: #179e66;
+    color: #3c7ad6;
     width: 70px;
     height: 70px;
     background: #fff;
@@ -3084,7 +3084,7 @@ p.has-large-font-size {
 }
 
 .single-team .t-content .name a:hover {
-    color: #179e66
+    color: #3c7ad6
 }
 
 .single-team .t-content .designation {
@@ -3278,7 +3278,7 @@ p.has-large-font-size {
 
 .single-skill .progress .progress-bar {
     position: relative;
-    background: #179e66;
+    background: #3c7ad6;
     border-radius: 5px
 }
 
@@ -3319,7 +3319,7 @@ p.has-large-font-size {
     margin-bottom: 0;
     color: #fff;
     border-radius: 100%;
-    background: #009140;
+    background: #3c7ad6;
     margin-top: 10px;
     font-size: 25px;
     width: 50px;
@@ -3331,7 +3331,7 @@ p.has-large-font-size {
 
 .single-pricing.active .icon-head,
 .single-pricing:hover .icon-head {
-    background: #179e66;
+    background: #3c7ad6;
     color: #fff;
     border-color: transparent
 }
@@ -3349,7 +3349,7 @@ p.has-large-font-size {
 .single-pricing .prices span {
     font-size: 24px;
     font-weight: 600;
-    color: #228848
+    color: #3c7ad6
 }
 
 .single-pricing .prices span b {
@@ -3390,7 +3390,7 @@ p.has-large-font-size {
 
 .single-pricing .button p i {
     margin-right: 5px;
-    color: #179e66
+    color: #3c7ad6
 }
 
 .single-pricing .p-best {
@@ -3399,7 +3399,7 @@ p.has-large-font-size {
     overflow: hidden;
     color: #fff;
     font-size: 15px;
-    background: #179e66;
+    background: #3c7ad6;
     position: absolute;
     top: 14px;
     left: -45px;
@@ -3443,7 +3443,7 @@ p.has-large-font-size {
     line-height: 55px;
     font-size: 16px;
     text-align: center;
-    color: #179e66;
+    color: #3c7ad6;
     position: absolute;
     display: inline-block !important;
     left: 0;
@@ -3526,7 +3526,7 @@ p.has-large-font-size {
     background: #fff;
     padding: 40px;
     box-shadow: 0 0 15px rgba(0, 0, 0, .18);
-    border-top: 4px solid #179e66
+    border-top: 4px solid #3c7ad6
 }
 
 .contact-form-area h4 {
@@ -3608,7 +3608,7 @@ p.has-large-font-size {
 .contact-form-area.faq-form .form-title {
     padding-left: 20px;
     margin-bottom: 12px;
-    border-left: 3px solid #179e66
+    border-left: 3px solid #3c7ad6
 }
 
 .contact-form-area.faq-form .form-group {
@@ -3706,7 +3706,7 @@ p.has-large-font-size {
 }
 
 .img-feature .video-play a {
-    color: #179e66;
+    color: #3c7ad6;
     font-size: 30px;
     text-align: center;
     border-radius: 100%;
@@ -3809,7 +3809,7 @@ p.has-large-font-size {
     left: -50px;
     bottom: -50px;
     padding: 50px 25px;
-    background: #179e66;
+    background: #3c7ad6;
     width: 225px;
     z-index: 2;
     border-radius: 100%;
@@ -3838,7 +3838,7 @@ p.has-large-font-size {
 .img-feature .small-icon {
     position: absolute;
     background: #fff;
-    color: #179e66;
+    color: #3c7ad6;
     display: block;
     width: 70px;
     line-height: 70px;
@@ -3857,7 +3857,7 @@ p.has-large-font-size {
 
 .img-feature .experience:hover .small-icon {
     opacity: 1;
-    color: #179e66
+    color: #3c7ad6
 }
 
 .modern-img-feature {
@@ -3899,7 +3899,7 @@ p.has-large-font-size {
 
 .side.overlay:before {
     width: 80%;
-    background: #009140;
+    background: #3c7ad6;
     transform: rotate(74deg);
     left: -403px;
     z-index: 0;
@@ -4761,7 +4761,7 @@ title:before {
 }
 
 .site-btn--green:hover span {
-    color: #0b7d3f
+    color: #3c7ad6
 }
 
 .site-btn--green:hover::before {
@@ -6092,23 +6092,23 @@ p.cpa-person-info span {
 }
 
 .banner-special-info-item__img.watchimg {
-    background: url('https://www.kanakkupillai.com/assets/affiliate/apply_in_4_minutes.svg') 0 0/100% no-repeat
+    background: url('#') 0 0/100% no-repeat
 }
 
 .banner-special-info-item__img.pichartimg {
-    background: url('https://www.kanakkupillai.com/assets/affiliate/decision_asfastas_24_hours.svg') 0 0/100% no-repeat
+    background: url('#') 0 0/100% no-repeat
 }
 
 .banner-special-info-item__img.pbankimg {
-    background: url('https://www.kanakkupillai.com/assets/affiliate/get_funded_asfas_72_hours.svg') 0 0/100% no-repeat
+    background: url('#') 0 0/100% no-repeat
 }
 
 .banner-special-info-item__img.moneyimg {
-    background: url('https://www.kanakkupillai.com/assets/affiliate/receive_between_25-5m.svg') 0 0/100% no-repeat
+    background: url('#') 0 0/100% no-repeat
 }
 
 .cpa-desc {
-    background: url('https://www.kanakkupillai.com/assets/affiliate/cpa-bg.png') 0 0/100% no-repeat;
+    background: url('#') 0 0/100% no-repeat;
     z-index: 9
 }
 
@@ -6121,41 +6121,41 @@ p.cpa-person-info span {
 
 .cpa-users-info__bg,
 .employee-info__bg {
-    background: url('https://www.kanakkupillai.com/assets/affiliate/big_leaf_green.svg') 0 0/100% no-repeat
+    background: url('#') 0 0/100% no-repeat
 }
 
 .cpa-desc .cpa-logo.cpaicon {
-    background: url('https://www.kanakkupillai.com/assets/affiliate/cpa.png') 0 0/100% no-repeat
+    background: url('#') 0 0/100% no-repeat
 }
 
 .we-get-you__bg {
-    background: url('https://www.kanakkupillai.com/assets/affiliate/testimonials.png') 0 0/100% no-repeat;
+    background: url('#') 0 0/100% no-repeat;
     min-height: 349px;
     width: 100%
 }
 
 .focus-on-running__bg.img-hld {
-    background: url('https://www.kanakkupillai.com/assets/affiliate/Weve_got_your_back_bg-new.png') 0 0/100% no-repeat
+    background: url('#') 0 0/100% no-repeat
 }
 
 .focus-on-running__bg-man {
-    background: url('https://www.kanakkupillai.com/assets/affiliate/retouched_kenyabrown_002.png') center bottom/100% no-repeat
+    background: url('#') center bottom/100% no-repeat
 }
 
 .box__icon.chart {
-    background: url('https://www.kanakkupillai.com/assets/affiliate/progress.svg') 0 0/100% no-repeat
+    background: url('#') 0 0/100% no-repeat
 }
 
 .box__icon.locker {
-    background: url('https://www.kanakkupillai.com/assets/affiliate/safe.svg') 0 0/100% no-repeat
+    background: url('#') 0 0/100% no-repeat
 }
 
 .box__icon.cup {
-    background: url('https://www.kanakkupillai.com/assets/affiliate/trophy.svg') 0 0/100% no-repeat
+    background: url('#') 0 0/100% no-repeat
 }
 
 .ready-to-fund__media {
-    background: url('https://www.kanakkupillai.com/assets/affiliate/ready_to_fund_image-new.png') 0 0/100% no-repeat;
+    background: url('#') 0 0/100% no-repeat;
     min-height: 506px
 }
 
